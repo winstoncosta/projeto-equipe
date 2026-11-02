@@ -5,4 +5,4 @@ Projeto 1
 Projeto 2
 Projeto 3
 
-2) Estou promovendo a segunda alteração da atividade. Issue que corrige o somatorio do relatorio.
+2) Estou promovendo a segunda alteração da atividade. Issue do somatorio do relatorio da auditoria.
