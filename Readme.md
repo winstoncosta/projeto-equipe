@@ -4,3 +4,5 @@ Arquivo Novo
 Projeto 1
 Projeto 2
 Projeto 3
+
+2) Estou promovendo a segunda alteração da atividade. Issue que corrige o somatorio do relatorio.
